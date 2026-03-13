@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Om Patel",
+    "email": "om.patel@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Dhruv Shah",
+    "email": "dhruv.shah@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rudra Mehta",
+    "email": "rudra.mehta@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Dhruvil Joshi",
+    "email": "dhruvil.joshi@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Vishal Desai",
+    "email": "vishal.desai@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Om",
+    "email": "om@gmail.com"
+  }
+]
